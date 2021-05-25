@@ -652,23 +652,6 @@
         }, 
         {
          "draworder":"topdown",
-         "id":54,
-         "name":"port",
-         "objects":[],
-         "opacity":1,
-         "properties":[
-                {
-                 "name":"path",
-                 "type":"object",
-                 "value":3
-                }],
-         "type":"objectgroup",
-         "visible":true,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "draworder":"topdown",
          "id":6,
          "name":"floorLayer",
          "objects":[],
