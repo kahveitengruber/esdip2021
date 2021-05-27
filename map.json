@@ -614,7 +614,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/localhost:8080\/map.json#zone_exit"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/kahveitengruber.github.io\/esdip2021\/map.json#zone_exit"
                 }],
          "type":"tilelayer",
          "visible":true,
