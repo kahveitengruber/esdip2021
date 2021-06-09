@@ -650,7 +650,7 @@
                         {
                          "name":"openWebsite",
                          "type":"file",
-                         "value":"https:\/\/vimeo.com\/560840204\/9ef39488aa"
+                         "value":"https:\/\/player.vimeo.com\/video\/560839587"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -722,7 +722,7 @@
                         {
                          "name":"openWebsite",
                          "type":"file",
-                         "value":"https:\/\/vimeo.com\/560839587\/474ea20d76"
+                         "value":"https:\/\/player.vimeo.com\/video\/560840204"
                         }],
                  "type":"tilelayer",
                  "visible":true,
