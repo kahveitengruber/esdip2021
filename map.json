@@ -1528,7 +1528,7 @@
                                 {
                                  "name":"openWebsite",
                                  "type":"file",
-                                 "value":"..\/..\/..\/..\/vendors\/3dhistech\/DX Product_Brochure.pdf"
+                                 "value":"..\/..\/..\/..\/vendors\/3dhistech\/dx_product_brochure.pdf"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
