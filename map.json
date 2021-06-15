@@ -1781,6 +1781,12 @@
                  "id":177,
                  "name":"posterinteractiv",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"file",
+                         "value":"..\/..\/..\/..\/vendor\/aignostics_rollup.pdf"
+                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":56,
