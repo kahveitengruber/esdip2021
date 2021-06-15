@@ -1602,7 +1602,7 @@
                                 {
                                  "name":"openWebsite",
                                  "type":"file",
-                                 "value":"..\/..\/..\/..\/vendors\/3dhistech\/dx_product_brochure.pdf"
+                                 "value":"vendors\/3dhistech\/dx_product_brochure.pdf"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -1620,7 +1620,7 @@
                                 {
                                  "name":"openWebsite",
                                  "type":"file",
-                                 "value":"..\/..\/..\/..\/vendors\/3dhistech\/dx_banner.png"
+                                 "value":"vendors\/3dhistech\/dx_banner.png"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -1656,7 +1656,7 @@
                                 {
                                  "name":"openWebsite",
                                  "type":"file",
-                                 "value":"..\/..\/..\/..\/vendors\/3dhistech\/br_sc.pdf"
+                                 "value":"vendors\/3dhistech\/br_sc.pdf"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
