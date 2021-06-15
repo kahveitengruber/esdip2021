@@ -254,12 +254,12 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/esdip\/esdip-2021\/chillout_left.json#entry_mid"
+                 "value":"https:\/\/play.workadventu.re\/@\/esdip\/esdip-2021\/chilloutleft#entry_mid"
                 }, 
                 {
                  "name":"exitUrl.back",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/esdip\/esdip-2021\/chillout_left.json#entry_mid"
+                 "value":"https:\/\/play.workadventu.re\/@\/esdip\/esdip-2021\/chilloutleft#entry_mid"
                 }],
          "type":"tilelayer",
          "visible":true,
