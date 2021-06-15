@@ -1597,7 +1597,7 @@
                          "height":95,
                          "id":120,
                          "name":"3dhistech-stat-2",
-                         "opacity":1,
+                         "opacity":0,
                          "properties":[
                                 {
                                  "name":"openWebsite",
@@ -1638,7 +1638,7 @@
                                 {
                                  "name":"openWebsite",
                                  "type":"file",
-                                 "value":"vendors\/3dhistech\/br_sc_102019.pdf"
+                                 "value":"..\/..\/..\/..\/vendors\/3dhistech\/br_sc_102019.pdf"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
