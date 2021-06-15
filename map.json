@@ -167,7 +167,7 @@
                 {
                  "name":"exitUrl.back",
                  "type":"string",
-                 "value":"\/@\/esdip\/2021\/chilloutright#entry_bot"
+                 "value":"https:\/\/play.workadventu.re\/@\/esdip\/esdip-2021\/chilloutright#entry_bot"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -190,7 +190,7 @@
                 {
                  "name":"exitUrl.back",
                  "type":"string",
-                 "value":"\/@\/esdip\/2021\/chilloutright#entry_mid"
+                 "value":"https:\/\/play.workadventu.re\/@\/esdip\/2021\/chilloutright#entry_mid"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -213,7 +213,7 @@
                 {
                  "name":"exitUrl.back",
                  "type":"string",
-                 "value":"\/@\/esdip\/2021\/chilloutright#entry_top"
+                 "value":"https:\/\/play.workadventu.re\/@\/esdip\/esdip-2021\/chilloutright#entry_top"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -236,7 +236,7 @@
                 {
                  "name":"exitUrl.back",
                  "type":"string",
-                 "value":"\/@\/esdip\/2021\/chilloutleft#entry_bot"
+                 "value":"https:\/\/play.workadventu.re\/@\/esdip\/2021\/chilloutleft#entry_bot"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -259,7 +259,7 @@
                 {
                  "name":"exitUrl.back",
                  "type":"string",
-                 "value":"\/chilloutleft#entry_mid"
+                 "value":"https:\/\/play.workadventu.re\/@\/esdip\/esdip-2021\/chilloutleft#entry_mid"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -282,7 +282,7 @@
                 {
                  "name":"exitUrl.back",
                  "type":"string",
-                 "value":"\/chilloutleft#entry_mid"
+                 "value":"https:\/\/play.workadventu.re\/@\/esdip\/esdip-2021\/chilloutleft#entry_mid"
                 }],
          "type":"tilelayer",
          "visible":true,
