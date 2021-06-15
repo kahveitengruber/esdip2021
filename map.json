@@ -1579,7 +1579,7 @@
                          "height":95,
                          "id":116,
                          "name":"3dhistech-stat-1",
-                         "opacity":1,
+                         "opacity":0,
                          "properties":[
                                 {
                                  "name":"openWebsite",
