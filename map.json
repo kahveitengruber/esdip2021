@@ -1528,7 +1528,7 @@
                                 {
                                  "name":"openWebsite",
                                  "type":"file",
-                                 "value":"..\/..\/..\/..\/vendors\/3dhistech\/dx_product_brochure.pdf"
+                                 "value":"https:\/\/play.workadventu.re\/@\/esdip\/esdip-2021\/esdip2021\/vendors\/3dhistech\/dx_product_brochure.pdf"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -1677,7 +1677,7 @@
                         {
                          "name":"openWebsite",
                          "type":"file",
-                         "value":"..\/..\/..\/..\/vendors\/sectra\/sectra-pathology-backdrop.pdf"
+                         "value":"https:\/\/play.workadventu.re\/@\/esdip\/esdip-2021\/esdip2021\/vendors\/sectra\/sectra-pathology-backdrop.pdf"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -1695,7 +1695,7 @@
                         {
                          "name":"openWebsite",
                          "type":"file",
-                         "value":"vendors\/aignostics_rollup.pdf"
+                         "value":"https:\/\/play.workadventu.re\/@\/esdip\/esdip-2021\/esdip2021\/vendors\/aignostics_rollup.pdf"
                         }],
                  "type":"tilelayer",
                  "visible":true,
