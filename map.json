@@ -1787,7 +1787,7 @@
                         {
                          "name":"openWebsite",
                          "type":"file",
-                         "value":"ecdp2021-poster-overview.pdf"
+                         "value":"poster-overview.pdf"
                         }],
                  "type":"tilelayer",
                  "visible":true,
