@@ -277,12 +277,12 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/chillout_left.json#entry_top"
+                 "value":"\/chillout_left.json#entry_top"
                 }, 
                 {
                  "name":"exitUrl.back",
                  "type":"string",
-                 "value":".\/chilloutleft#entry_mid"
+                 "value":"\/chilloutleft#entry_mid"
                 }],
          "type":"tilelayer",
          "visible":true,
