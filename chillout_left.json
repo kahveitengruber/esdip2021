@@ -96,7 +96,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/esdip\/esdip-2021\/esdip2021#entry_left_bot"
+                 "value":"https:\/\/play.workadventu.re\/@\/esdip\/esdip-2021\/esdip2021#entry_left_bot"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -114,7 +114,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/esdip\/esdip-2021\/esdip2021#entry_left_mid"
+                 "value":"https:\/\/play.workadventu.re\/@\/esdip\/esdip-2021\/esdip2021#entry_left_mid"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -132,7 +132,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/esdip\/esdip-2021\/esdip2021#entry_left_top"
+                 "value":"https:\/\/play.workadventu.re\/@\/esdip\/esdip-2021\/esdip2021#entry_left_top"
                 }],
          "type":"tilelayer",
          "visible":true,
