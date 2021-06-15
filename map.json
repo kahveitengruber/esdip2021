@@ -1679,7 +1679,7 @@
                         {
                          "name":"openWebsite",
                          "type":"file",
-                         "value":"vendors\/vendors\/sectra\/sectra-pathology-backdrop.pdf"
+                         "value":"vendors\/sectra\/sectra-pathology-backdrop.pdf"
                         }],
                  "type":"tilelayer",
                  "visible":true,
