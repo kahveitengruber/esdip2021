@@ -9,7 +9,7 @@
          "name":"collides",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":44,
          "x":0,
          "y":0
@@ -21,7 +21,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":44,
          "x":0,
          "y":0
@@ -39,7 +39,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":44,
          "x":0,
          "y":0
@@ -126,7 +126,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/esdip\/esdip-2021\/esdip2021#entry_auditorium"
+                 "value":"https:\/\/play.workadventu.re\/@\/esdip\/esdip-2021\/esdip2021#entry_auditorium"
                 }],
          "type":"tilelayer",
          "visible":false,
