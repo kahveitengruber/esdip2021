@@ -300,7 +300,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"auditorium.json"
+                 "value":"https:\/\/play.workadventu.re\/@\/esdip\/2021\/auditorium.json"
                 }, 
                 {
                  "name":"exitUrl.back",
