@@ -19,7 +19,7 @@ const zoneList = {
                     label: "Open zoom",
                     className: "popUpElement",
                     callback: (popupValue) => {
-                        WA.openTab('https://zoom.us/');
+                        WA.openTab('https://us02web.zoom.us/j/86856707781?pwd=OTNDVlNQZ044c0s1MG1nWStKa3NWdz09');
                         popupValue.close();
                     }
                 },
@@ -32,7 +32,7 @@ const zoneList = {
                     label: "Open zoom",
                     className: "popUpElement",
                     callback: (popupValue) => {
-                        WA.openTab('https://zoom.us/');
+                        WA.openTab('https://us02web.zoom.us/j/86856707781?pwd=OTNDVlNQZ044c0s1MG1nWStKa3NWdz09');
                         popupValue.close();
                     }
                 },
@@ -45,7 +45,7 @@ const zoneList = {
                     label: "Open zoom",
                     className: "popUpElement",
                     callback: (popupValue) => {
-                        WA.openTab('https://zoom.us/');
+                        WA.openTab('https://us02web.zoom.us/j/86856707781?pwd=OTNDVlNQZ044c0s1MG1nWStKa3NWdz09');
                         popupValue.close();
                     }
                 },
