@@ -162,7 +162,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/chillout_right.json#entry_bot"
+                 "value":"https:\/\/play.workadventu.re\/@\/esdip\/esdip-2021\/chillout_right.json#entry_bot"
                 }, 
                 {
                  "name":"exitUrl.back",
@@ -185,7 +185,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/chillout_right.json#entry_mid"
+                 "value":"https:\/\/play.workadventu.re\/@\/esdip\/esdip-2021\/chillout_right.json#entry_mid"
                 }, 
                 {
                  "name":"exitUrl.back",
@@ -208,7 +208,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/chillout_right.json#entry_top"
+                 "value":"https:\/\/play.workadventu.re\/@\/esdip\/esdip-2021\/chillout_right.json#entry_top"
                 }, 
                 {
                  "name":"exitUrl.back",
@@ -231,7 +231,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/chillout_left.json#entry_bot"
+                 "value":"https:\/\/play.workadventu.re\/@\/esdip\/esdip-2021\/chillout_left.json#entry_bot"
                 }, 
                 {
                  "name":"exitUrl.back",
@@ -254,7 +254,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/chillout_left.json#entry_mid"
+                 "value":"https:\/\/play.workadventu.re\/@\/esdip\/esdip-2021\/chillout_left.json#entry_mid"
                 }, 
                 {
                  "name":"exitUrl.back",
