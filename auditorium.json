@@ -54,7 +54,7 @@
                 {
                  "name":"zone",
                  "type":"string",
-                 "value":"https:\/\/us02web.zoom.us\/j\/86856707781?pwd=OTNDVlNQZ044c0s1MG1nWStKa3NWdz09"
+                 "value":"popupAuditorium1"
                 }],
          "type":"tilelayer",
          "visible":true,
