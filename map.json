@@ -305,7 +305,7 @@
                 {
                  "name":"exitUrl.back",
                  "type":"string",
-                 "value":"\/@\/esdip\/2021\/amphi"
+                 "value":"https:\/\/play.workadventu.re\/@\/esdip\/2021\/amphi"
                 }],
          "type":"tilelayer",
          "visible":true,
