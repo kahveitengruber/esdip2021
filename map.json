@@ -1293,7 +1293,7 @@
                                 {
                                  "name":"openWebsite",
                                  "type":"file",
-                                 "value":"vendors\/contextvision\/INIFY Prostate brochure.pdf"
+                                 "value":"vendors\/contextvision\/inify_prostate_brochure.pdf"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
