@@ -368,7 +368,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/www.geoguessr.com\/free"
+                 "value":"https:\/\/gemioli.com\/hooligans\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -386,7 +386,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"http:\/\/theraccoonshare.com\/GORILLAS.BAS\/"
+                 "value":"https:\/\/gemioli.com\/relicrunway\/"
                 }],
          "type":"tilelayer",
          "visible":true,
