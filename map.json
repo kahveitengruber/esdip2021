@@ -300,12 +300,12 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/esdip\/esdip-2021\/auditorium"
+                 "value":"https:\/\/play.workadventu.re\/@\/esdip\/esdip-2021\/auditorium.json"
                 }, 
                 {
                  "name":"exitUrl.back",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/esdip\/esdip-2021\/auditorium"
+                 "value":"https:\/\/play.workadventu.re\/@\/esdip\/esdip-2021\/auditorium.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -2255,7 +2255,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":189,
+ "nextlayerid":190,
  "nextobjectid":6,
  "orientation":"orthogonal",
  "properties":[
