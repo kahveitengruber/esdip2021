@@ -132,7 +132,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/esdip\/esdip-2021#start-from-auditorium"
+                 "value":"https:\/\/play.workadventu.re\/@\/esdip\/esdip-2021\/esdip2021#start-from-auditorium"
                 }],
          "type":"tilelayer",
          "visible":true,
